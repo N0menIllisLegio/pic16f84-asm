@@ -5,4 +5,4 @@
 4. На выход RA0 подать сигнал об окончании сортировки.
 5. По желанию выполнить симуляцию работы программы в среде Proteus.
 
-![Image of project](https://github.com/N0menIllisLegio/images/blob/master/pic16f84-asm/Picture1.png?raw=true)
+![Image of project](../images/Picture1.png?raw=true)
